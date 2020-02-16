@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https//RenanMacielLuna.github.io/monsters-rolodex/static/css/main.8245986c.chunk.css",
+    "main.js": "https//RenanMacielLuna.github.io/monsters-rolodex/static/js/main.c6ce33aa.chunk.js",
+    "main.js.map": "https//RenanMacielLuna.github.io/monsters-rolodex/static/js/main.c6ce33aa.chunk.js.map",
+    "runtime-main.js": "https//RenanMacielLuna.github.io/monsters-rolodex/static/js/runtime-main.c64f71b8.js",
+    "runtime-main.js.map": "https//RenanMacielLuna.github.io/monsters-rolodex/static/js/runtime-main.c64f71b8.js.map",
+    "static/js/2.40aee04e.chunk.js": "https//RenanMacielLuna.github.io/monsters-rolodex/static/js/2.40aee04e.chunk.js",
+    "static/js/2.40aee04e.chunk.js.map": "https//RenanMacielLuna.github.io/monsters-rolodex/static/js/2.40aee04e.chunk.js.map",
+    "index.html": "https//RenanMacielLuna.github.io/monsters-rolodex/index.html",
+    "precache-manifest.965779a451467ced60a40aa1e7b24e01.js": "https//RenanMacielLuna.github.io/monsters-rolodex/precache-manifest.965779a451467ced60a40aa1e7b24e01.js",
+    "service-worker.js": "https//RenanMacielLuna.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.8245986c.chunk.css.map": "https//RenanMacielLuna.github.io/monsters-rolodex/static/css/main.8245986c.chunk.css.map",
+    "static/js/2.40aee04e.chunk.js.LICENSE.txt": "https//RenanMacielLuna.github.io/monsters-rolodex/static/js/2.40aee04e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c64f71b8.js",
+    "static/js/2.40aee04e.chunk.js",
+    "static/css/main.8245986c.chunk.css",
+    "static/js/main.c6ce33aa.chunk.js"
+  ]
+}
